@@ -1,0 +1,3 @@
+[submodule "cmme"]
+	path = cmme
+	url = git@github.com:lexngu/cmme.git
