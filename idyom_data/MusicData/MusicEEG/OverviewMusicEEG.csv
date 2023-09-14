@@ -1,0 +1,11 @@
+ID,Composer,Composition,Year,Tonic,Key,KeySignatureCode,Sound,TimeSignatureTop,TimeSignatureBottom,Tempo,Duration,Filename,OriginalFilename,Source
+1,JS Bach,BWV 1013 Flute Partita 1 Allemande,1723,A,min,21,piano,4,4,100,00:02:38,audio01.mid,fp-1all.mid ,http://www.jsbach.net
+2,JS Bach,BWV 1013 Flute Partita 2 Corrente,1723,A,min,21,piano,3,4,100,00:02:34,audio02.mid,fp-2cou.mid,http://www.jsbach.net
+3,JS Bach,BWV 1013 Flute Partita 3 Sarabande,1723,A,min,21,piano,3,4,70,00:02:00,audio03.mid,fp-3sar.mid,http://www.jsbach.net
+4,JS Bach,BWV 1013 Flute Partita 4 Bourree,1723,A,min,21,piano,2,4,80,00:02:15,audio04.mid,fp-4bou.mid,http://www.jsbach.net
+5,JS Bach,BWV 1004 Violin Partita 2-1 Allemande,1723,D,min,14,piano,4,4,47,00:02:45,audio05.mid,vp2-1all.mid,http://www.jsbach.net
+6,JS Bach,BWV 1001 Violin Sonata  1-4 Presto,1720,G,min,19,piano,3,8,125,00:03:19,audio06.mid,vs1-4prs.mid,http://www.jsbach.net
+7,JS Bach,BWV 1002 Violin Partita 1-1 Allemande,1720,Bb,min,22,piano,4,4,50,00:02:53,audio07.mid,vp1-1al_v2.mid,http://www.jsbach.net
+8,JS Bach,BWV 1004 Violin Partita 2-4 Gigue,1723,D,min,14,piano,12,8,120,00:03:02,audio08.mid,vp2-4gig_v2.mid,http://www.jsbach.net
+9,JS Bach,BWV 1006 Violin Partita 3-2 Loure,1720,E,maj,4,piano,6,4,80,00:02:14,audio09.mid,vp3-2lou.mid,http://www.jsbach.net
+10,JS Bach,BWV 1006 Violin Partita 3-3 Gavotte,1720,E,maj,4,piano,4,4,140,00:02:58,audio10.mid,vp3-3gav_v2.mid,http://www.jsbach.net

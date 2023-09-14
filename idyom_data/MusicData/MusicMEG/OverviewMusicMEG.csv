@@ -1,0 +1,20 @@
+﻿ID,Composer,Composition,Year,Tonic,Key,KeySignatureCode,Sound,TimeSignatureTop,TimeSignatureBottom,Tempo,Duration,Filename,Source
+101,B Britten,Metamorphoses Op. 49 II. Phaeton,1951,C,maj,0,oboe,4,4,110,00:01:35,BBritten_Metamorphoses2,
+102,B Britten,Metamorphoses Op. 49 III. Niobe,1951,Db,maj,1,oboe,4,4,60,00:01:41,BBritten_Metamorphoses3,
+103,B Britten,Metamorphoses Op. 49 IV. Bacchus,1951,F,maj,5,oboe,4,4,100,00:01:54,BBritten_Metamorphoses4,
+104,C Franck,Violin Sonata IV. Allegretto poco mosso,1886,A,maj,9,flute,4,4,150,00:02:55,CFranck_ViolinSonata-4,http://www.kunstderfuge.com/franck.htm
+105,CPE Bach,Sonata for Solo Flute in A minor Wq.132 / H.564 III.,1763,A,min,21,flute,3,8,98,00:04:35,CPEBach_SonataWq132-3,https://www.flutetunes.com/tunes.php?id=731
+106,E Koehler,Flute Exercises Op. 33a V Allegretto,1880,G,maj,7,flute,4,4,124,00:02:20,EKoehler_FluteExercisesOp33a5,http://www4.osk.3web.ne.jp/~kasumitu/eng.htm
+107,E Koehler,Flute Exercises Op. 33b VI Presto,1880,D,min,14,piano,6,8,176,00:02:14,EKoehler_FluteExercisesOp33b6,https://www.flutetunes.com/tunes.php?id=3458
+108,GF Haendel,Flute Sonata Op. 1 No. 5 HWV 363b IV Bourrée,1711,G,maj,7,oboe,4,4,132,00:01:24,GFHaendel_FluteSonataGHWV363b-4,https://www.flutetunes.com/tunes.php?id=755
+109,GF Haendel,Flute Sonata Op. 1 No. 3 HWV 379 IV Allegro,1711,E,min,16,piano,3,8,96,00:02:23,GFHaendel_FluteSonataGHWV379-4,https://www.flutetunes.com/tunes.php?id=2027
+110,J Haydn,Little Serenade,1785,F,maj,5,oboe,3,4,92,00:01:21,JHaydn_LittleSerenade,https://www.flutetunes.com/tunes.php?id=1275
+111,JS Bach,Flute Partita BWV 1013 II Courante,1723,A,min,21,flute,3,4,64,00:02:56,JSBach_FlutePartitaBWV1013-2,https://www.mutopiaproject.org/cgibin/make-table.cgi?searchingfor=bach+flute+partita
+112,JS Bach,Flute Partita BWV 1013 IV Bourrée angloise,1723,A,min,21,oboe,2,4,62,00:02:18,JSBach_FlutePartitaBWV1013-4,https://www.mutopiaproject.org/cgibin/make-table.cgi?searchingfor=bach+flute+partita
+113,JS Bach,Violin Concerto BWV 1042 I Allegro,1718,E,maj,4,piano,2,2,100,00:02:02,JSBach_ViolinConcertoBWV1042-1,https://www.mutopiaproject.org/ftp/BachJS/BWV1042/concerto-in-e-major/concerto-in-e-major-mids.zip
+114,JS Bach,Violin Concerto BWV 1042 III Allegro Assai,1718,E,maj,4,piano,3,8,92,00:01:20,JSBach_ViolinConcertoBWV1042-3,https://www.mutopiaproject.org/ftp/BachJS/BWV1042/concerto-in-e-major/concerto-in-e-major-mids.zip
+115,LV Beethoven,Sonatina (Anh. 5 No. 1),1807,G,maj,7,flute,4,4,128,00:03:30,LvBeethoven_Sonatina,https://www.flutetunes.com/tunes.php?id=562
+116,M Clementi,Sonatina Op. 36 No. 5 III Rondo,1797,G,maj,7,piano,2,4,112,00:03:07,MClementi_SonatinaNo2Rondo,https://www.flutetunes.com/tunes.php?id=2537
+117,M Mussorgsky,Pictures at an Exhibition - Promenade,1874,Bb,maj,10,oboe,5,4,80,00:01:46,MMussorgsky_Promenade,https://www.flutetunes.com/tunes.php?id=42
+118,PI Tchaikovsky,The Nutcracker Suite - Russian Dance Trepak ,1892,G,maj,7,piano,2,4,120,00:01:18,PITchaikovsky_RussianDanceOp71a,https://www.flutetunes.com/tunes.php?id=145
+119,WA Mozart,The Magic Flute K620 Papageno's Aria,1791,F,maj,5,flute,2,4,72,00:02:30,WAMozart_PapagenosAria,https://www.flutetunes.com/tunes.php?id=223
